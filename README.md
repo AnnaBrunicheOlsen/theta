@@ -10,6 +10,7 @@ These scripts are developed for investigating genomic diversity and effective po
 
 2.	Look for Whole-genome resequencing data from Illumina Hiseq or Novaseq technologies  
 - Record S2 and S4 lane reads seperately
+- As per: https://onlinelibrary.wiley.com/doi/10.1111/1755-0998.13309
 
 3. Minimum read length should be 150 bps
 
